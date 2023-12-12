@@ -21,7 +21,7 @@ Para rodar este projeto localmente, siga os seguintes passos:
 
 1. Clone o repositório:
     ```bash
-    git clone [URL do repositório]
+    git clone https://github.com/Ulkiorraa/front-biblioteca.git
     ```
 2. Entre no diretório do projeto:
     ```bash
